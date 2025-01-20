@@ -15,3 +15,5 @@ frontend/.yarn
 frontend/.pnp.loader.mjs
 frontend/.pnp.cjs
 human_eval
+.env
+.venv
