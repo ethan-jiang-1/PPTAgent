@@ -17,3 +17,5 @@ frontend/.pnp.cjs
 human_eval
 .env
 .venv
+
+.env
